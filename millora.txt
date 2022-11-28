@@ -1,0 +1,2 @@
+Per a la millora del codi, afegiria més funcions per a expandir el programa,  
+printejaria un text, faria un else if .
